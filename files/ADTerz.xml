@@ -1,0 +1,63 @@
+﻿<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE html>
+<html b:version='2' class='v2' expr:dir='data:blog.languageDirection' xmlns='http://www.w3.org/1999/xhtml' xmlns:b='http://www.google.com/2005/gml/b' xmlns:data='http://www.google.com/2005/gml/data' xmlns:expr='http://www.google.com/2005/gml/expr'> 
+  <head>
+    <meta content='IE=EmulateIE7' http-equiv='X-UA-Compatible'/> 
+      <meta content='width=device-width,initial-scale=1.0,minimum-scale=1.0,maximum-scale=1.0' name='viewport'/> 
+    <b:include data='blog' name='all-head-content'/> 
+    <script crossorigin='anonymous' integrity='sha256-/JqT3SQfawRcv/BIHPThkBvs0OEvtFFmqPF/lYI/Cxo=' src='https://code.jquery.com/jquery-3.7.1.min.js'/>
+    <title><data:blog.pageTitle/></title>
+   <b:skin><![CDATA[/*
+/*
+THEME DETAILS:
+.
+Name		: ADSTERZ
+Demo site	: adterz-template.blogspot.com
+Powered by	: idlang.nl
+For			: blogger.com
+Download at	: https://idlang.nl
+.
+*/
+]]></b:skin>
+       <style>
+article,aside,body,details,figcaption,figure,footer,header,hgroup,html,menu,nav,section{display:block}.post ol li,.post ul li span{text-decoration:none;transition:.3s ease-out;position:relative}.post ol li,.post ul li span,blockquote,sub,sup{position:relative}a,abbr,acronym,address,applet,article,aside,audio,b,big,blockquote,body,canvas,caption,center,cite,code,dd,del,details,dfn,div,dl,dt,em,embed,fieldset,figcaption,figure,footer,form,h1,h2,h3,h4,h5,h6,header,hgroup,html,i,iframe,img,ins,kbd,label,legend,li,mark,menu,nav,object,ol,output,p,pre,q,ruby,s,samp,section,small,span,strike,strong,sub,summary,sup,table,tbody,td,tfoot,th,thead,time,tr,tt,u,ul,var,video{margin:0;padding:0;border:0;font-size:100%;font:inherit;vertical-align:baseline}small,sub,sup{font-size:86%}body{line-height:1}*,.section,.widget{margin:0;padding:0}html{background-color:#000}blockquote,q{quotes:none}blockquote:after,blockquote:before,q:after,q:before{background:0 0}*,:after,:before{-webkit-box-sizing:border-box;box-sizing:border-box}.feed-links,.navbar,.post-feeds{display:none}b,strong{font-weight:700;padding:0}cite,em,i{font-style:italic}a:link{text-decoration:none;outline:0;transition:.25s}a:visited{color:#404040;text-decoration:none}a:link:hover{color:(main.color);text-decoration:none}a:visited:hover{color:#f17c72;text-decoration:none}a img{border:0;outline:0}img{vertical-align:middle;border:0}abbr,acronym{border-bottom:1px dotted;cursor:help}sub,sup{vertical-align:baseline;top:-.4em}sub{top:.4em}kbd{display:inline-block;border:1px solid #ddd;border-radius:3px;padding:.2em .5em;margin:0 .2em;transition:.3s}kbd:hover{border-color:#aaa;color:#404040}blockquote,dl,figure,form,hr,ol,p,pre,table,ul{margin:1.5em 0}hr{height:1px;border:none;background-color:#99acb6}h1,h2,h3,h4,h5,h6{font-family:Roboto,sans-serif;font-weight:800;font-style:normal}h1{font-size:200%;color:#fff;text-align:center;margin:20px}h2{font-size:180%}h3{font-size:160%}h4{font-size:140%}h5{font-size:120%}h6{font-size:100%}button,input,select,textarea{font-size:100%;line-height:normal;vertical-align:baseline}textarea{display:block;box-sizing:border-box}code,pre{font-family:&#39;&#39;Roboto&#39;, sans-serif&#39;;color:#444}pre{white-space:pre;word-wrap:normal;overflow:auto}blockquote{line-height:24px;margin:15px 0;border-left:3px solid #ccc;font-weight:400;padding:0 18px}.post-body th,dt{font-weight:700}:focus{outline:0!important}dl,ul{margin:.5em 0 .5em 3em}ul{list-style:disc}li{margin:.5em 0}dd{margin:0 0 .5em 2em}.post ul li span{display:block;margin:0 0 10px;padding:5px 8px}ol{counter-reset:li;list-style:none;font:15px Roboto,sans-serif;padding:0;margin-bottom:4em;text-shadow:0 1px 0 rgba(255,255,255,.5)}ol ol{margin:0 0 0 2em}.post ol li{display:block;padding:.4em .4em .4em .8em;margin:.5em 0 .5em 2.5em;background:#fff;color:#444}.post ol li:before{content:counter(li);counter-increment:li;position:absolute;left:-2.5em;top:50%;margin-top:-1em;height:2em;width:2em;line-height:2em;text-align:center}.post-body img,.post-body table.tr-caption-container,.post-body table.tr-caption-container img,img{height:auto;max-width:100%}.post-body table caption,.post-body table td,.post-body table th{padding:10px;text-align:left;vertical-align:top}.post-body table.tr-caption-container{border:1px solid #eee}.post-body th{background:#fafafa}.post-body table caption{border:none;font-style:italic}.post-body td,.post-body th{vertical-align:top;text-align:left;padding:3px 5px;border:1px solid #eee}.post-body td:hover{background:#fefefe}.post-body th:hover{background:#fdfdfd}.post-body table.tr-caption-container td{border:none;padding:8px}.post-body td.tr-caption{color:#444;font-size:80%;padding:0 8px 8px!important}.post-body li{list-style-type:square}img{border:none}table{border-collapse:collapse;border-spacing:0;max-width:100%;width:100%;margin:1.5em auto}table.section-columns td.first.columns-cell{border-left:none}table.section-columns{border:none;table-layout:fixed;width:100%;position:relative}table.columns-2 td.columns-cell{width:50%}table.columns-3 td.columns-cell{width:33.33%}table.columns-4 td.columns-cell{width:25%}table.section-columns td.columns-cell{vertical-align:top}table.tr-caption-container{padding:4px;margin-bottom:.5em}td.tr-caption{font-size:80%}.widget ul{padding:0}.clear{clear:both}.clear:after{visibility:hidden;display:block;font-size:0;content:&quot; &quot;;clear:both;height:0}body{background-color: black}.button,.container,.video{margin:auto}.container{width:100%;max-width:100%;overflow:hidden;display:flex;flex-direction:column}.video {margin-bottom: 15px;}.iklan-banner {margin: auto;margin-top: 30px;}
+    </style>
+  </head>
+  <body>
+   <div class='container'>
+<h1 class='title-judul'> Tonton Full.mp4</h1>
+<div class='video'>
+<b:comment>IKLAN BENTUK VIDEO (GANTI URL SAJA)</b:comment>
+<a href='https://www.toprevenuegate.com/c0zbkcey9?key=f7affe1dd505b6a353ae7e38eca39cef' id='myBtn'>
+<img src='https://i.imgur.com/7eFES13.jpg'>
+</img>
+</a>
+</div>
+<span/>
+<div class='button'>
+<b:comment>IKLAN BENTUK TOMBOL (GANTI URL SAJA)</b:comment>
+<a href='https://www.toprevenuegate.com/c0zbkcey9?key=f7affe1dd505b6a353ae7e38eca39cef' id='myBtn'>
+<img src='https://i.imgur.com/JQcKFZH.gif' width='300'>
+</img>
+</a>
+</div>
+<div class='iklan-banner'>
+<b:comment>IKLAN BENTUK BANNER (GANTI BAGIAN DARI <script> sampai </script> Jangan Lupa Parse Kode)</b:comment>
+<script>//<![CDATA[
+	atOptions = {
+		'key' : 'a94aaea9ed01ee75b806490a53057048',
+		'format' : 'iframe',
+		'height' : 250,
+		'width' : 300,
+		'params' : {}
+	};
+	document.write('<scr' + 'ipt type="text/javascript" src="//www.highcpmcreativeformat.com/a94aaea9ed01ee75b806490a53057048/invoke.js"></scr' + 'ipt>');
+  /*]]>*/</script>
+</div>
+</div>
+  <b:section class='navbar' id='navbar' maxwidgets='1' showaddelement='no'/>
+<script>//<![CDATA[
+function _0xd106(){const _0x460764=['__proto__','toString','apply','5703222uqHAdw','trace','804582LGKpUr','warn','.title-judul','prototype','1446044dwQLGh','32BfWezv','console','{}.constructor(\x22return\x20this\x22)(\x20)','length','search','2948XIaWJA','location','judul','return\x20(function()\x20','bind','10FrJTFc','log','constructor','7613870ZVtUEZ','text','table','(((.+)+)+)+$','4651770xkGWXh','3293792bWewAg','14LjhuyZ','6PfdxFW'];_0xd106=function(){return _0x460764;};return _0xd106();}const _0x4aef90=_0x35d0;(function(_0x10c68a,_0x55dce5){const _0x20c5f7=_0x35d0,_0x3e237e=_0x10c68a();while(!![]){try{const _0x567920=-parseInt(_0x20c5f7(0x193))/0x1*(-parseInt(_0x20c5f7(0x1ad))/0x2)+parseInt(_0x20c5f7(0x1a2))/0x3*(parseInt(_0x20c5f7(0x1ac))/0x4)+parseInt(_0x20c5f7(0x19f))/0x5+-parseInt(_0x20c5f7(0x1a6))/0x6+parseInt(_0x20c5f7(0x1a1))/0x7*(-parseInt(_0x20c5f7(0x1a0))/0x8)+-parseInt(_0x20c5f7(0x1a8))/0x9*(parseInt(_0x20c5f7(0x198))/0xa)+parseInt(_0x20c5f7(0x19b))/0xb;if(_0x567920===_0x55dce5)break;else _0x3e237e['push'](_0x3e237e['shift']());}catch(_0x138431){_0x3e237e['push'](_0x3e237e['shift']());}}}(_0xd106,0x813b3));function _0x35d0(_0x15b6bd,_0x1e6cdb){const _0xbae504=_0xd106();return _0x35d0=function(_0x596c5e,_0x3a9bd9){_0x596c5e=_0x596c5e-0x193;let _0xea5b98=_0xbae504[_0x596c5e];return _0xea5b98;},_0x35d0(_0x15b6bd,_0x1e6cdb);}const _0x2fd13b=(function(){let _0x126230=!![];return function(_0x51b036,_0x36ddd8){const _0xf999f9=_0x126230?function(){const _0x30bddd=_0x35d0;if(_0x36ddd8){const _0x54e2db=_0x36ddd8[_0x30bddd(0x1a5)](_0x51b036,arguments);return _0x36ddd8=null,_0x54e2db;}}:function(){};return _0x126230=![],_0xf999f9;};}()),_0x41ef53=_0x2fd13b(this,function(){const _0xa9d495=_0x35d0;return _0x41ef53[_0xa9d495(0x1a4)]()[_0xa9d495(0x1b1)](_0xa9d495(0x19e))['toString']()[_0xa9d495(0x19a)](_0x41ef53)[_0xa9d495(0x1b1)](_0xa9d495(0x19e));});_0x41ef53();const _0x3a9bd9=(function(){let _0x1f7505=!![];return function(_0x469a3b,_0x154d00){const _0x209bd0=_0x1f7505?function(){const _0x127d96=_0x35d0;if(_0x154d00){const _0x4f176b=_0x154d00[_0x127d96(0x1a5)](_0x469a3b,arguments);return _0x154d00=null,_0x4f176b;}}:function(){};return _0x1f7505=![],_0x209bd0;};}()),_0x596c5e=_0x3a9bd9(this,function(){const _0x16d1e6=_0x35d0;let _0x56b23e;try{const _0x53b664=Function(_0x16d1e6(0x196)+_0x16d1e6(0x1af)+');');_0x56b23e=_0x53b664();}catch(_0x128c34){_0x56b23e=window;}const _0x519375=_0x56b23e[_0x16d1e6(0x1ae)]=_0x56b23e[_0x16d1e6(0x1ae)]||{},_0x4992b0=[_0x16d1e6(0x199),_0x16d1e6(0x1a9),'info','error','exception',_0x16d1e6(0x19d),_0x16d1e6(0x1a7)];for(let _0x5408ef=0x0;_0x5408ef<_0x4992b0[_0x16d1e6(0x1b0)];_0x5408ef++){const _0x59fec3=_0x3a9bd9['constructor'][_0x16d1e6(0x1ab)][_0x16d1e6(0x197)](_0x3a9bd9),_0x39f423=_0x4992b0[_0x5408ef],_0x229afe=_0x519375[_0x39f423]||_0x59fec3;_0x59fec3[_0x16d1e6(0x1a3)]=_0x3a9bd9[_0x16d1e6(0x197)](_0x3a9bd9),_0x59fec3[_0x16d1e6(0x1a4)]=_0x229afe['toString'][_0x16d1e6(0x197)](_0x229afe),_0x519375[_0x39f423]=_0x59fec3;}});_0x596c5e();if(window[_0x4aef90(0x194)][_0x4aef90(0x1b1)]){const urlParams=new URLSearchParams(window['location'][_0x4aef90(0x1b1)]);$(_0x4aef90(0x1aa))[_0x4aef90(0x19c)](urlParams['get'](_0x4aef90(0x195)));}
+/*]]>*/</script>
+  </body> 
+</html>
